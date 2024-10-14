@@ -62,12 +62,12 @@ Step7: Name & Generate The Project Initialization Code For CubeIDE or The IDE Yo
 Step8.  Creating Proteus project and running the simulation
 We are now at the last part of step by step guide on how to simulate STM32 project in Proteus.
 
-Step9. Create a new Proteus project and place STM32F40xx i.e. the same MCU for which the project was created in STM32Cube IDE. 
-14. After creation of the circuit as per requirement as shown below 
+Step9. Create a new Proteus project and place STM32F40xx i.e. the same MCU for which the project was created in STM32Cube IDE.  After creation of the circuit as per requirement as shown below 
+
 Step10. Double click on the the MCU part to open settings. Next to the Program File option, give full path to the Hex file generated using STM32Cube IDE. Then set the external crystal frequency to 8M (i.e. 8 MHz). Click OK to save the changes.
 
  
-Step14. click on debug and simulate using simulation as shown below 
+Step11. click on debug and simulate using simulation as shown below 
 
  
 
