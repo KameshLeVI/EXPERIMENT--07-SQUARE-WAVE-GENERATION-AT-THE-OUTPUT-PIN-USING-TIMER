@@ -17,6 +17,7 @@ The following diagram shows you how the ARR value affects the period (frequency)
 STM32 Timers – PWM Output Channels
 
 Each Capture/Compare channel is built around a capture/compare register (including a shadow register), an input stage for capture (with a digital filter, multiplexing, and Prescaler) and an output stage (with comparator and output control). The output stage generates an intermediate waveform which is then used for reference: OCxRef (active high). The polarity acts at the end of the chain.
+![image](https://github.com/user-attachments/assets/6fe6b81c-b3cc-41e5-88a5-3527aa04485a)
 
 STM32 Timers In PWM Mode
 
